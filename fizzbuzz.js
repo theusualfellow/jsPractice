@@ -1,6 +1,5 @@
 function fizzbuzz(number){
-    let a= 3;
-    let b=5;
+
     
     for(let i=1; i<number+1; i++){
         let word="";
